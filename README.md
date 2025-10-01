@@ -8,18 +8,18 @@
 
 ## 🧠 Сотф Скиллы
 
-- Логическое и системное мышление
-- Умение расставлять приоритеты и соблюдать дедлайны
-- Самоорганизация при работе
-- Умение работать в команде
-- Умение быстро осваивать чужой код и документацию
-- Гибкость и адаптивность к изменениям требований
+⚙️ Логическое и системное мышление  
+⏰ Умение расставлять приоритеты и соблюдать дедлайны  
+📅 Самоорганизация при работе  
+🤝 Умение работать в команде  
+📚 Умение быстро осваивать чужой код и документацию  
+🔄 Гибкость и адаптивность к изменениям требований  
 
 ---
 
 ## 🔧 Технологии
 
-`C#` • `Unity` • `OOP` • `Solid` • `GoF паттерны` • `Clean Architecture` • `Zenject` • `самописный DI` • `UniTask` • `UniRX` • `UnityAds`
+`C#` • `Unity` • `OOP` • `Solid` • `GoF паттерны` • `Clean Architecture` • `Zenject` • `самописный DI` • `UniTask` • `UniRX` • `UnityAds`  
 `Addressables` • `AssetBundle` • `DOTween` • `Websockets` • `WebRTC` • `Git` • `Trello` • `Jira`
 
 ---
@@ -29,19 +29,19 @@
 🎮[Портфолио с играми на itch.io](https://ingolf.itch.io/)
 
 🎯 **Knight Adventure - демо игра с чистой и масштабируемой архитектурой**  
-- 🕹 [Knight Adventure на Itch.io](https://ingolf.itch.io/knight-adventure-architecture-demo)
-- 📎 [Репозиторий с подробным описанием проекта](https://github.com/ingolfTHEcapitan/Mobile-Game-Architecture)
-- 🎬 [Геймплейное-видео](https://www.youtube.com/watch?v=P8rog1YBEe4)
+- 🕹 [Сыграть в Knight Adventure на Itch.io](https://ingolf.itch.io/knight-adventure-architecture-demo)  
+- 📎 [Репозиторий с подробным описанием проекта](https://github.com/ingolfTHEcapitan/Mobile-Game-Architecture)  
+- 🎬 [Геймплейное-видео](https://www.youtube.com/watch?v=P8rog1YBEe4)  
 
-🎯 **AR Модуль визуализации дополненной реальности** 
-- 🎬 [Видео-демонстарция](https://www.youtube.com/watch?v=P8rog1YBEe4)
+🎯 **AR Модуль визуализации дополненной реальности**  
+- 🎬 [Видео-демонстарция](https://www.youtube.com/watch?v=P8rog1YBEe4)  
   
 ---
 
 ## 🏫 Образование
 
-🎓КНАГУ — Бакалавр с отлчием по направлению Информатика и вычислительная техника 
-📘 Курсы: k-syndicate (Architecture unity games)
+🎓КНАГУ — Бакалавр с отлчием по направлению "Информатика и вычислительная техника"   
+📘 Курсы: k-syndicate (Architecture unity games)  
 
 ---
 
