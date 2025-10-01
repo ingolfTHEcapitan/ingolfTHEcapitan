@@ -6,27 +6,36 @@
 
 ---
 
-## 🧠 Обо мне
+## 🧠 Сотф Скиллы
 
-- 
+- Логическое и системное мышление
+- Умение расставлять приоритеты и соблюдать дедлайны
+- Самоорганизация при работе
+- Умение работать в команде
+- Умение быстро осваивать чужой код и документацию
+- Гибкость и адаптивность к изменениям требований
 
 ---
 
 ## 🔧 Технологии
 
-`C#` • `Unity` • `OOP` • `Solid` • `GoF паттерны` • `Clean Architecture` • `Zenject` • `самописный DI` • `UniTask` • `UniRX` • `UnityAds` • `Addressables` • `AssetBundle` • `DOTween` • `Websockets` • `WebRTC` • `Git` • `Trello` • `Jira`
+`C#` • `Unity` • `OOP` • `Solid` • `GoF паттерны` • `Clean Architecture` • `Zenject` • `самописный DI` • `UniTask` • `UniRX` • `UnityAds`
+`Addressables` • `AssetBundle` • `DOTween` • `Websockets` • `WebRTC` • `Git` • `Trello` • `Jira`
 
 ---
 
 ## 💼 Портфолио
 
+🎮[Портфолио с играми на itch.io](https://ingolf.itch.io/)
+
 🎯 **Knight Adventure - демо игра с чистой и масштабируемой архитектурой**  
-📎  [Knight Adventure на Itch.io](https://play.google.com/store/apps/details?id=com.somniumfabri.olwo)  
-🎬 [Геймплейное-видео](https://www.youtube.com/watch?v=P8rog1YBEe4)
+- 🕹 [Knight Adventure на Itch.io](https://ingolf.itch.io/knight-adventure-architecture-demo)
+- 📎 [Репозиторий с подробным описанием проекта](https://github.com/ingolfTHEcapitan/Mobile-Game-Architecture)
+- 🎬 [Геймплейное-видео](https://www.youtube.com/watch?v=P8rog1YBEe4)
 
-🎯 **Модуль визуализации дополненной реальности** 
-🎬 [Видео-демонстарция](https://www.youtube.com/watch?v=P8rog1YBEe4)
-
+🎯 **AR Модуль визуализации дополненной реальности** 
+- 🎬 [Видео-демонстарция](https://www.youtube.com/watch?v=P8rog1YBEe4)
+  
 ---
 
 ## 🏫 Образование
@@ -38,9 +47,6 @@
 
 ## 📬 Контакты
 
-<a href="https://www.linkedin.com/in/nikolay-terentev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://t.me/tnikolav" target="_blank">
+<a href="https://t.me/Ingolf_arts" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
