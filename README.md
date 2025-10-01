@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Литовченко Виталий 👋</h1>
+<h1 align="center">Привет, я Виталий Литовченко 👋</h1>
 
 <p align="center">
 Разрабатываю игры на Unity уже более 2х лет. Есть опыт работы с Android, AR/PC‑приложениями и WebGL‑играми, опубликованными на Itch.io.
@@ -40,7 +40,7 @@
 
 ## 🏫 Образование
 
-🎓Комсомольский-на-Амуре государственный университет — Бакалавр с отлчием по направлению Информатика и вычислительная техника 
+🎓КНАГУ — Бакалавр с отлчием по направлению Информатика и вычислительная техника 
 📘 Курсы: k-syndicate (Architecture unity games)
 
 ---
@@ -49,4 +49,10 @@
 
 <a href="https://t.me/Ingolf_arts" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://web.whatsapp.com/send/?phone=79144208020" target="_blank">
+  <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+</a>
+<a href="https://vk.com/twilight_sparkle_the_best_pony" target="_blank">
+  <img src="https://img.shields.io/badge/Вконтакте-0077FF?style=for-the-badge&logo=VK&logoColor=white" alt="Вконтакте"/>
 </a>
