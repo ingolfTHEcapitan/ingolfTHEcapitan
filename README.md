@@ -30,8 +30,7 @@
 
 🎯 **Knight Adventure - демо игра с чистой и масштабируемой архитектурой**  
 - 🕹 [Сыграть в Knight Adventure на Itch.io](https://ingolf.itch.io/knight-adventure-architecture-demo)  
-- 📎 [Репозиторий с подробным описанием проекта](https://github.com/ingolfTHEcapitan/Mobile-Game-Architecture)  
-- 🎬 [Геймплейное-видео](https://www.youtube.com/watch?v=P8rog1YBEe4)  
+- 📎 [Репозиторий со скриншотами и подробным описанием проекта](https://github.com/ingolfTHEcapitan/Mobile-Game-Architecture)  
 
 🎯 **AR Модуль визуализации дополненной реальности**  
 - 🎬 [Видео-демонстарция](https://www.youtube.com/watch?v=P8rog1YBEe4)  
