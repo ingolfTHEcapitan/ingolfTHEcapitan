@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Виталий 👋</h1>
+<h1 align="center">Привет, я Ingolf 👋</h1>
 
 <p align="center">
 Разрабатываю игры на Unity уже более 3х лет. Есть опыт работы с Android, AR/PC‑приложениями и WebGL‑играми, опубликованными на Itch.io.
@@ -33,7 +33,7 @@
 - 📎 [Репозиторий со скриншотами и подробным описанием проекта](https://github.com/ingolfTHEcapitan/Mobile-Game-Architecture)  
 
 🎯 **AR Модуль визуализации дополненной реальности**  
-- 🎬 [Видео-демонстарция](https://www.youtube.com/watch?v=P8rog1YBEe4)  
+- 🎬 [Видео-демонстарция]()  
   
 ---
 
